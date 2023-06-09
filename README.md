@@ -1,6 +1,6 @@
 - 👋 Mar7aba, I’m Dana!
 - 👩🏽‍🎓 I’m a Master's student at Queen Mary University of London, studying Genomic Medicine
-- 🧬 I’m using GitHub to keep track of my dissertation code as well as my progress in learning Python and R for data science and bioinformatics! :-) 
+- 🧬 I’m using GitHub to keep track of my dissertation code as well as my progress in learning Python and R for data science and bioinformatics (and fun)! :-) 
 - 📫 Email: danaalkalali1@gmail.com | LinkedIn: https://www.linkedin.com/in/dana-alkalali/
 
 <!---
